@@ -2,3 +2,4 @@
 * 1 lime
 * tsp salt
 * 1/2 onion
+* apple
