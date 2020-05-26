@@ -3,7 +3,6 @@
 * tsp salt
 * 1/2 onion
 * apple
-* add second apple
 * bread
 * more some
 * moreee
