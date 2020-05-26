@@ -3,5 +3,9 @@
 * tsp salt
 * 1/2 onion
 * apple
+<<<<<<< HEAD
 * bread
-* more some
+* more some 
+=======
+* moreee
+>>>>>>> less-salt
