@@ -1,4 +1,4 @@
-# Guacamole recipe
+# Guacamole recipe ja jotain uutta
 
 used in teaching git
 
@@ -18,5 +18,5 @@ Repository for point cloud manipulation tools. Please see section "Features and 
 ### k nearest neighbour search
 
 - See section "xx" in script yy.m
-- The function mex.mex contains a small bug. The above script shows how to deal with it.
-- See documentation of mex....  in file yy.ppt
+- The function mex.mex contains a small bug, which is not listed in the documentation. Also, the input needs to be modified. See section "xx" in script yy.m to deal with these issues. 
+- Documentation of mex.mex can be found in file yy.ppt
